@@ -1,7 +1,7 @@
 body {
-	margin: auto;
+    margin: auto;
     padding: auto;
-	background-image: url(./bg.jpg);
+    background-image: url(./bg.jpg);
     height: 100%; 
     background-position: center;
     background-repeat: no-repeat;
